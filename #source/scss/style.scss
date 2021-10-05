@@ -1,0 +1,50 @@
+// Файл обнуляющих стилей
+@import "nullstyle.scss";
+
+// Стиллизация 
+
+.wrapper {
+}
+.block {
+		&__row {
+			border: 20px solid rgb(216, 226, 69);
+			margin: 25px;
+			display: flex;
+			flex-direction: column-reverse;
+			height: 800px;
+		}
+
+		&__column {
+			border: 20px solid rgb(99, 61, 138);
+		}
+
+		&__column_1{
+			
+		}
+
+		&__column_2{
+			flex: 1 1 auto;
+		}
+
+		&__column_3{
+		
+		}
+		
+		
+		&__item_bigHeith{
+			height: 270px;
+			width: 270px;
+			text-align: center;
+
+		}
+		&__item {
+			background: rgb(11, 155, 143);
+			font-size: 74px;
+			font-weight: 700;
+			padding: 50px;
+			color: white;
+			
+		
+		}
+
+}
