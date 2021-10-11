@@ -2,7 +2,7 @@
 In this training project I got acquainted with flex box, SCSS and program collector, compiler - Prepros
 
 # At first. Create a clone of the project
-In Git CMD , specify the path to the folder where you want to clone the project . Then enter the command :
+In Git CMD , specify the path to the folder where you want to clone the project . Then enter the command :                                             
 clone git https://github.com/rojinald/flex-box-introduction.git
 
 # The second step.
