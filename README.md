@@ -9,7 +9,7 @@ clone git https://github.com/rojinald/flex-box-introduction.git
 ```
 The second step.
 ```sh
-In Prepros, open the project, go to the folder .../#source/css/style.css
+In Prepros, open the project, go to the folder .../#source/scss/style.scss
 and on the right in the OUTPUT FILE column specify the path to .../css/style.css
 ```
 Congratulations, now you can work with SCSS and the Prepros program will compile it into CSS :)
